@@ -19,4 +19,4 @@ The objective of this tutorial is to look at how we can customise Flutter Widget
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
-
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
